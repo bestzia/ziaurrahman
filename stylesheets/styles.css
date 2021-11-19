@@ -7,6 +7,15 @@ body {
   color:#000;
   font-weight:400;
 }
+	zia{
+	border-style: solid;
+	border-color: blue;
+	color: white;
+	background-color: black;
+	border-width: 2px 2px 2px 12px;
+	padding:5px;
+	margin:2%;
+}
 ud {
   font-size: 12px;
   text-decoration: underline;
