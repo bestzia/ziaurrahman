@@ -1,11 +1,16 @@
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,400italic,700italic,700);
 
 body {
-  background-color: #fff;
-  padding:30px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#000;
-  font-weight:400;
+    width: 60%;
+    margin: 50px auto;
+    padding: 15px;
+    position: relative; /*needed for heading4 rule*/
+    z-index: 0; /* again, just for heading4 rule*/
+    border: 7px solid #cecece;
+    border: 7px solid rgba(0,0,0,.05);
+    background: #fff;
+    background-clip: padding-box;
+    box-shadow: 0 0 2px rgba(0, 0, 0, .5);
 }
 zia{
 	border-style: solid;
