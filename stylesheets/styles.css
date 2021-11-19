@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,400italic,700italic,700);
 
 body {
-    width: 60%;
+    width: 100%;
     margin: 50px auto;
     padding: 15px;
     z-index: 0; /* again, just for heading4 rule*/
